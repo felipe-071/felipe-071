@@ -1,6 +1,7 @@
-### Olá, muito prazer. Meu nome é Felipe Xavier 👋
+### Hey, nice to meet you. I'm Felipe Xavier 👋
 
 
-- 🌱 Estou aprendendo Java, React.js e Next.js
-- 📫 Meu e-mail é: felipefelxg@gmail.com
-- ⚡ Estudante de ADS
+- 🌱 I'm learning Java, React.js and Next.js
+- 💬 Ask me about <b>HTML, CSS, wireframes</b> and <b>programming logic</b>
+- ⚡ Systems Analysis and Development student
+- 💡 Fun fact: I adore blue light filters :D
